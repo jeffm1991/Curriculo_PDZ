@@ -1,0 +1,27 @@
+#fundo {
+  background-size: cover;
+  background-image: url('/assets/foto-perfil.jpg');
+  opacity: 90%;
+  background-position: center;
+}
+
+.tamanhodivc{
+  padding: 50px;
+  background-color: rgb(194, 191, 191);
+  opacity: 70%;
+}
+
+.tamanhodivb{
+  padding: 50px;
+  background-color: rgb(255, 255, 255);
+  opacity: 70%;
+}
+
+.configcontainer{
+  padding: 0%;
+}
+
+.icone-branco {
+  filter: invert(1);
+}
+
